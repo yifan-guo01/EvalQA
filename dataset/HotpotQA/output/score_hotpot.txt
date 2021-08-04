@@ -1,0 +1,18 @@
+average Sentences: 44.83
+average words: 1203.33
+Total questions: 12
+average nlpParse duration per question (seconds): 8.49129
+average Doctak summarization duration per question (seconds): 0.36103
+average talker self duration per question (seconds): 0.17621
+average talker bert duration per question (seconds): 11.84338
+average ripple self duration per question (seconds): 0.06625
+average ripple bert duration per question (seconds): 10.21673
+average thinker self duration per question (seconds): 0.02486
+average thinker bert duration per question (seconds): 9.94432
+average Bert bert duration per question (seconds): 14.37854
+
+talker_F1 = 33.92857142857142, talker_exact_match = 25.0
+ripple_F1 = 17.85714285714286, ripple_exact_match = 8.333333333333334
+thinker_F1 = 17.261904761904763, thinker_exact_match = 8.333333333333334
+bert_F1 = 4.166666666666667, bert_exact_match = 0.0
+
